@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 - I'm currently leading software development for [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite].
-- I'm also interning for Analog Devices as a Data Visualization Intern.
+- I'm also interning for [Analog Devices][adiwebsite] as a Data Visualization Intern.
 - I'll be graduating with a B.S. in Computer Science from Georgia Tech in December 2023.
 
 ### Connect with Me:
@@ -23,11 +23,19 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
+<br />
+
+<img align="left" alt="Allison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=allisonkwan&count_private=true&hide=stars,issues,prs&show_icons=true&theme=prussian">
 
 <br />
+
+<img align="left" alt="Allison's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonkwan&layout=compact">
+
 <br />
+
 
 [tpwebsite]: https://www.tree-plenish.org/
 [tpgithub]: https://github.com/tree-plenish
+[adiwebsite]: https://www.analog.com/en/index.html#
 [portfolio]: https://allisonkwan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/allisonkwan23/
