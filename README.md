@@ -24,16 +24,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
 <br />
----
+<br />
 
 <img align="left" alt="Allison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=allisonkwan&count_private=true&hide=stars,issues,prs&show_icons=true&theme=prussian">
 
-<br />
 ---
 
 <img align="left" alt="Allison's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonkwan&layout=compact">
 
-<br />
 
 
 [tpwebsite]: https://www.tree-plenish.org/
