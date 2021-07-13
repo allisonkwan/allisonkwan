@@ -32,8 +32,6 @@
 <img align="left" alt="Allison's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonkwan&layout=compact">
 
 <br/><br/>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 [tpwebsite]: https://www.tree-plenish.org/
 [tpgithub]: https://github.com/tree-plenish
