@@ -2,6 +2,7 @@
 
 ## I'm a Student and Developer!
 - I'm currently leading software development for [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite].
+- I'll be working at American Express as a Software Enginering Intern in the Summer of 2022.
 - I worked as a Data Visualization Intern for [Analog Devices][adiwebsite] in the Summer of 2021.
 - I'll be graduating with a B.S. in Computer Science from Georgia Tech in December 2023.
 
