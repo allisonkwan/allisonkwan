@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<img align="left" alt="Allison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=allisonkwan&count_private=true&hide=stars,issues,prs&show_icons=true&theme=prussian">
+<img align="left" alt="Allison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=allisonkwan&count_private=true&langs_count=6&hide=stars,issues,prs&show_icons=true&theme=prussian">
 
 <br/><br/>
 
