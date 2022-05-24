@@ -2,7 +2,8 @@
 
 ## I'm a Student and Developer!
 - I'm currently leading software development for [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite].
-- I'll be working at [American Express][amexwebsite] as a Software Enginering Intern in the Summer of 2022.
+- I'm also currently working at [American Express][amexwebsite] as a Software Enginering Intern (Summer 2022).
+- I'll be working for [Bits of Good][bogwebsite] as a Product Manager in Fall 2022.
 - I worked as a Data Visualization Intern for [Analog Devices][adiwebsite] in the Summer of 2021.
 - I'll be graduating with a B.S. in Computer Science from Georgia Tech in December 2023.
 
@@ -39,5 +40,6 @@
 [tpgithub]: https://github.com/tree-plenish
 [adiwebsite]: https://www.analog.com/en/index.html#
 [amexwebsite]: https://www.americanexpress.com/
+[bogwebsite]: https://bitsofgood.org/
 [portfolio]: https://allisonkwan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/allisonkwan23/
