@@ -1,11 +1,19 @@
 ### Hey there, I'm Allison Kwan.
 
 ## I'm a Student and Developer!
-- I'm currently leading software development for [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite].
-- I'm also currently working at [American Express][amexwebsite] as a Software Enginering Intern (Summer 2022).
-- I'll be working for [Bits of Good][bogwebsite] as a Product Manager in Fall 2022.
-- I worked as a Data Visualization Intern for [Analog Devices][adiwebsite] in the Summer of 2021.
-- I'll be graduating with a B.S. in Computer Science from Georgia Tech in December 2023.
+### Education
+- B.S. in Computer Science from the Georgia Institute of Technology | Graduating December 2023
+
+### Work Experience
+- Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
+- Software Engineering Intern at [American Express][amexwebsite] | Summer 2022
+- Data Visualization Intern at [Analog Devices][adiwebsite] | Summer 2021
+
+### Campus Involvement
+- Product Manager at [Bits of Good][bogwebsite] | Fall 2022
+- Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
+  - Previously: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
+- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022
 
 ### Connect with Me:
 [<img align="left" alt="allisonkwan.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
@@ -38,7 +46,13 @@
 <br />
 
 ### Software:
-<img align="left" alt="Oracle SQL Developer" width="26px" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" />
+<img align="left" alt="Oracle Application Express" width="26px" src="http://2.bp.blogspot.com/-FWvIBqe6Gn4/Vo4ekGlbtkI/AAAAAAAACAQ/YcHCYFFl-j8/s1600/x.png" />
+<img align="left" alt="Oracle SQL Developer" width="26px" src="https://image.pngaaa.com/782/3335782-middle.png" />
+<img align="left" alt="Oracle Rest Data Services" width="26px" src="https://rebeccalieb.com/sites/default/files/clients/oracle-logo.jpg" />
+<img align="left" alt="QlikView" width="26px" src="https://cdn.technologyadvice.com/wp-content/uploads/2014/02/qvlogo.png" />
+<img align="left" alt="Google Analytics" width="26px" src="https://iconape.com/wp-content/png_logo_vector/google-analytics-logo.png" />
+<img align="left" alt="Confluence" width="26px" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" />
+<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -57,5 +71,6 @@
 [adiwebsite]: https://www.analog.com/en/index.html#
 [amexwebsite]: https://www.americanexpress.com/
 [bogwebsite]: https://bitsofgood.org/
+[180dcwebsite]: https://www.gt180dc.com/
 [portfolio]: https://allisonkwan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/allisonkwan23/
