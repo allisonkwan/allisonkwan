@@ -4,23 +4,6 @@
 ### Education
 - B.S. in Computer Science from the Georgia Institute of Technology | Graduating December 2023
 
-### Work Experience
-- Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
-- Software Engineering Intern at [American Express][amexwebsite] | Summer 2022
-- Data Visualization Intern at [Analog Devices][adiwebsite] | Summer 2021
-
-### Campus Involvement
-- Product Manager at [Bits of Good][bogwebsite] | Fall 2022
-- Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
-  - Previously: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
-- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022
-
-### Connect with Me:
-[<img align="left" alt="allisonkwan.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="Allison Kwan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
@@ -55,6 +38,22 @@
 <img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br/><br/>
+
+### Work Experience
+- Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
+- Software Engineering Intern at [American Express][amexwebsite] | Summer 2022
+- Data Visualization Intern at [Analog Devices][adiwebsite] | Summer 2021
+
+### Campus Involvement
+- Product Manager at [Bits of Good][bogwebsite] | Fall 2022
+- Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
+  - Previously: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
+- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022
+
+### Connect with Me:
+[<img align="left" alt="allisonkwan.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="Allison Kwan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/><br/>
 
