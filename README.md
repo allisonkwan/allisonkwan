@@ -8,6 +8,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/117653/sql-file-format.svg" />
@@ -20,6 +21,7 @@
 ### Technologies:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Flask" width="26px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/flutter-rus/flutter-rus.github.io/master/images/logo.png" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="p5.js" width="26px" src="http://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" />
@@ -42,14 +44,15 @@
 
 ### Work Experience
 - Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
-- Software Engineering Intern at [American Express][amexwebsite] | Summer 2022
+- Software Engineer Intern at [American Express][amexwebsite] | Summer 2022
 - Data Visualization Intern at [Analog Devices][adiwebsite] | Summer 2021
 
 ### Campus Involvement
-- Product Manager at [Bits of Good][bogwebsite] | Fall 2022
-- Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
-  - Previously: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
-- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022
+- Associate Director of Product at [Bits of Good][bogwebsite]
+  - Previously: Product Manager (Fall 2022), Nonprofit Partnership Committee (Spring 2022)
+- Previous Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
+  - Past: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
+- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022 - Present
 
 ### Connect with Me:
 [<img align="left" alt="allisonkwan.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
