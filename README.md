@@ -45,7 +45,7 @@
 ### Work Experience
 - Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
 - Software Engineer Intern at [American Express][amexwebsite] | Summer 2022
-- Data Visualization Intern at [Analog Devices][adiwebsite] | Summer 2021
+- Software Engineer Intern at [Analog Devices][adiwebsite] | Summer 2021
 
 ### Campus Involvement
 - Associate Director of Product at [Bits of Good][bogwebsite]
