@@ -44,15 +44,16 @@
 
 ### Work Experience
 - Software Development Lead at [Tree-Plenish][tpgithub], a 501(c)(3) [nonprofit][tpwebsite] | Jan 2021 - Present
+- Software Development Engineer Intern at Amazon | Summer 2023
 - Software Engineer Intern at [American Express][amexwebsite] | Summer 2022
 - Software Engineer Intern at [Analog Devices][adiwebsite] | Summer 2021
 
 ### Campus Involvement
-- Associate Director of Product at [Bits of Good][bogwebsite]
+- Associate Director of Product at [Bits of Good][bogwebsite] | Spring 2023 - Present
   - Previously: Product Manager (Fall 2022), Nonprofit Partnership Committee (Spring 2022)
+- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022 - Present
 - Previous Director of Projects at [180 Degrees Consulting Georgia Tech][180dcwebsite] | Fall 2022
   - Past: Project Manager (Spring 2022), Senior Consultant (Fall 2021, Spring 2020)
-- Teaching Assistant, Computer Graphics (CS 3451) | Fall 2022 - Present
 
 ### Connect with Me:
 [<img align="left" alt="allisonkwan.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
